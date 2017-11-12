@@ -1,0 +1,9 @@
+{
+  "name": "reloadalltabs",
+  "title": "reloadalltabs",
+  "id": "jid1-umaWvsCQwZesUg",
+  "description": "a basic addon, that just reloads all open tabs on button press or hotkey",
+  "author": "Stefan Schraß",
+  "license": "MPL 2.0",
+  "version": "1.0.1"
+}
